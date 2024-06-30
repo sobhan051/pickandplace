@@ -1,0 +1,6 @@
+find first color
+find spot and cube (might be more then one cube)
+tell the car to do sth
+find the second color 
+//
+tell the car to do some thing
